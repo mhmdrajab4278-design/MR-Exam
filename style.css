@@ -1,12 +1,16 @@
 
+:root {
+    --first-color: #101820;
+    --second-color: #1B2838;
+    --third-color: #00C2A8;
+    --fourth-color: #E8F1F8;
+    --fifth-color: #24374B;
 
-:root{
-    --primary-color: dodgerblue;
-    --second-color: rgb(9, 86, 162);
-    --white-color: white;
-    --black-color: black;
-    --white-back: white;
-    --black-back: black;
+    --primary-color: var(--third-color);
+    --correct-color: #22C55E;
+    --incorrect-color: #F87171;
+    --warning-color: #FBBF24;
+    --muted-color: #A9BACB;
 }
 
 * {
@@ -15,84 +19,90 @@
     box-sizing: border-box;
 }
 
-body{
-    height: 100vh;
-    width: 100vw;
-    margin: 0;
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-color: var(--first-color);
+    color: var(--fourth-color);
 }
 
-#head{
+#head {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    color: var(--black-color);
+    color: var(--fourth-color);
     height: min(10%, 80px);
-    background: var(--primary-color);
+    background: var(--second-color);
     padding: 0 20px;
-    color: var(--black-color);
+    transition: .5s;
+    border-bottom: 2px solid var(--fifth-color);
 }
 
-#all{
+#all {
     width: 40%;
     margin: 10px;
 }
 
-#all *{
+#all * {
     margin-top: 10px;
 }
 
-#name{
-    letter-spacing: 2px;
+#name *{
+    margin: 0;
+    transition: .3s;
 }
 
-#cate{
+#name *:hover{
+    color: #00C2A8;
+}
+
+#cate {
     display: flex;
     justify-content: space-between;
     width: 100px;
     font-size: 1.5em;
+    color: var(--third-color);
 }
 
-#cards{
+#cards {
     display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    flex-direction: column;
-    gap: 10px;
+    flex-wrap: wrap;
+    gap: 15px;
     padding: 40px;
-    width: 100vw;
+    width: 100%;
 }
 
-.card{
+.card {
     width: 200px;
     height: auto;
-    border: 3px var(--primary-color) solid;
-    background-color: var(--primary-color);
+    border: 2px solid var(--fifth-color);
+    background-color: var(--second-color);
     border-radius: 15px;
     padding: 10px;
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;
-    box-shadow: 0 0 7px gray;
-    transition: .5s;
-    color: var(--black-color);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .2);
+    transition: .3s;
+    color: var(--fourth-color);
 }
 
-.card *{
+.card * {
     margin-top: 10px;
 }
 
-.card:hover{
-    background-color: var(--primary-color);
-    transform: translateX(10px);
-    
+.card:hover {
+    background-color: var(--fifth-color);
+    border-color: var(--third-color);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0, 194, 168, .15);
 }
 
-
-#side{
+#side {
     position: fixed;
-    background: var(--white-color);
+    background: var(--second-color);
     width: 0;
     height: 100%;
     margin: 0;
@@ -100,117 +110,189 @@ body{
     top: 0;
     overflow: hidden;
     transition: .5s;
-    color: var(--black-color);
+    color: var(--fourth-color);
     z-index: 101;
 }
+
 
 #side.active {
     display: flex;
     justify-content: space-between;
     align-items: start;
     width: min(40%, 300px);
-    border-right: 5px solid var(--primary-color);
+    border-right: 3px solid var(--third-color);
     padding: 3px;
     z-index: 101;
 }
 
-#sidebtn{
+#sidebtn {
     margin: 20px;
-    background-color: var(--primary-color);
-    border-radius: 15px;
-    border: 3px solid var(--b1-color);
+    background-color: var(--third-color);
+    color: var(--first-color);
+    border-radius: 10px;
+    border: 2px solid var(--third-color);
     font-size: 1em;
-    padding: 5px;
+    padding: 7px 12px;
     cursor: pointer;
+    transition: .3s;
 }
 
-#hideside{
-    background-color: var(--b1-color);
-    font-size: 1em;
+#sidebtn:hover {
+    background-color: var(--fourth-color);
+    border-color: var(--fourth-color);
+}
+
+#hideside {
+    background: transparent;
+    color: var(--fourth-color);
+    font-size: 1.3em;
     padding: 3px 5px;
-    border-radius: 15px;
+    border-radius: 10px;
     border: none;
     margin: 10px;
+    cursor: pointer;
+    transition: .3s;
 }
 
-#all{
-    width: 40%;
-    margin: 10px;
+#hideside:hover {
+    color: var(--third-color);
 }
 
-#all *{
-    margin-top: 10px;
+#select {
+    border-radius: 10px;
+    padding: 5px;
+    background-color: var(--fifth-color);
+    color: var(--fourth-color);
+    border: 1px solid var(--muted-color);
 }
 
-#select{
-    border-radius: 15px;
-    padding: 3px;
-    background-color: var(--primary-color);
-    border: 2px solid var(--b1-color);
+#select #blue {
+    background-color: #00C2A8;
+    color: var(--first-color);
+    border-radius: 5px;
 }
 
-#select #blue{
-    background-color: dodgerblue;
-    border-radius: 15px;
+#select #green {
+    background-color: #22C55E;
+    color: var(--first-color);
+    border-radius: 5px;
 }
 
-#select #green{
-    background-color: lightgreen;
-    border-radius: 15px;
+#select #orange {
+    background-color: #FBBF24;
+    color: var(--first-color);
+    border-radius: 5px;
 }
 
-#select #orange{
-    background-color: orange;
-    border-radius: 15px;
+#select #red {
+    background-color: #F87171;
+    color: var(--first-color);
+    border-radius: 5px;
 }
 
-#select #red{
-    background-color: tomato;
-    border-radius: 15px;
-}
-
-.foot{
+.foot {
     width: 100%;
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: var(--primary-color);
-    z-index: 99;;
+    background-color: var(--second-color);
+    border-top: 2px solid var(--fifth-color);
+    z-index: 99;
     height: 0;
     overflow: hidden;
     transition: .5s;
 }
 
-.active-foot{
+.active-foot {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
     height: 60%;
     padding-top: 20px;
-    box-shadow: 0 0 15px var(--primary-color);
+    box-shadow: 0 -5px 20px rgba(0, 194, 168, .12);
 }
 
-#quiz-form{
+#quiz-form {
     display: flex;
     flex-direction: column;
     row-gap: 15px;
 }
 
-.rdiv{
+.rdiv {
     display: flex;
     font-size: larger;
+    color: var(--fourth-color);
 }
 
 .rdiv * {
     margin-left: 15px;
 }
 
-#next, #cancel{
-    border-radius: 15px;
-    padding: 0 10px;
+.rdiv input {
+    accent-color: var(--third-color);
+    cursor: pointer;
+}
+
+#next,
+#cancel {
+    border-radius: 10px;
+    padding: 8px 16px;
     margin-top: 20px;
-    font-size: 2em;
-    transition: .5s;
-    border: none;
+    font-size: 1.2em;
+    transition: .3s;
+    border: 2px solid var(--third-color);
+    cursor: pointer;
+}
+
+#next {
+    background-color: var(--third-color);
+    color: var(--first-color);
+}
+
+#cancel {
+    background-color: transparent;
+    color: var(--fourth-color);
+    border-color: var(--muted-color);
+}
+
+#next:hover {
+    background-color: var(--fourth-color);
+    border-color: var(--fourth-color);
+    transform: translateY(-2px);
+}
+
+#cancel:hover {
+    background-color: var(--fifth-color);
+    border-color: var(--third-color);
+}
+
+#filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+
+#filter {
+    background-color: var(--second-color);
+    color: var(--fourth-color);
+    border: 1px solid var(--fifth-color);
+    font-size: 1em;
+    padding: 8px 12px;
+    margin-left: 20px;
+    border-radius: 10px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+#filter:hover {
+    transform: scale(.97);
+    border-color: var(--third-color);
+}
+
+#filter:focus,
+#select:focus {
+    outline: 2px solid var(--third-color);
+    outline-offset: 2px;
 }
