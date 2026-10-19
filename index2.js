@@ -62,6 +62,12 @@ async function displaydata() {
     else if (type == "fexam"){
         newquestions = questions;
     }
+
+    const home2 = document.getElementById("home2");
+
+    home2.addEventListener("click", event => {
+        window.location.href = "./index.html"
+    })
         
     // the top (passage and score)
 
@@ -98,10 +104,12 @@ async function displaydata() {
     qans.style.marginTop = "10px"
 
     inp.style.setProperty("--before-width", `${score}%`);
+    inp.style.zIndex = 1;
 
 
     scorenum.textContent = `${score}%`;
     scorenum.style.fontSize = "1.3em";
+    scorenum.style.zIndex = 100;
 
     inp.append(scorenum)
     scoreEl.prepend(qans);
@@ -236,7 +244,7 @@ async function displaydata() {
         const check = document.createElement("button");
         check.classList.add("check");
         check.textContent = "Answer";
-        btm.appendChild(check)
+        //btm.appendChild(check)
 
         answers.classList.add("ans")
 
@@ -296,9 +304,9 @@ async function displaydata() {
         ans.forEach((btn, i) => {
             btn.addEventListener("click", event => {
                 if(i == correctanswer){
-                    ops[correctanswer].style.backgroundColor = "lightgreen";
+                    ops[correctanswer].style.backgroundColor = "#00C2A8";
                     check.textContent = "Right";
-                    check.style.backgroundColor = "lightgreen";
+                    check.style.backgroundColor = "#00C2A8";
                     score += (1/newquestions.length)*100;
                     scorenum.textContent = `${score.toFixed(1)}%`;
                     inp.style.setProperty("--before-width", `${score}%`);
@@ -307,10 +315,8 @@ async function displaydata() {
                 }
 
                 else if(i != correctanswer){
-                    ops[correctanswer].style.backgroundColor = "lightgreen";
-                    ops[i].style.backgroundColor = "tomato";
+                    ops[correctanswer].style.backgroundColor = "#00C2A8";
                     check.textContent = "Wrong";
-                    check.style.backgroundColor = "tomato";
                     answered++;
                     qans.textContent = `${answered}/${newquestions.length} Questions Answered`
                 }
@@ -326,24 +332,3 @@ async function displaydata() {
 }
 
 displaydata()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
