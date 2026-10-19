@@ -35,6 +35,10 @@ async function get_questions(){
 async function start() {
     await get_questions();
 
+    const filter = document.getElementById("filter");
+
+    
+
     // sidebar
 
     const side = document.getElementById("side");
