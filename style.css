@@ -68,13 +68,15 @@ body {
 #cards {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 15px;
-    padding: 40px;
+    margin-top: 30px;
+    padding: 0 10px;
     width: 100%;
 }
 
 .card {
-    width: 200px;
+    width: 160px;
     height: auto;
     border: 2px solid var(--fifth-color);
     background-color: var(--second-color);
@@ -236,6 +238,7 @@ body {
     cursor: pointer;
     transition: .4s;
     border: 2px solid #00C2A8;
+    width: 170px;
 }
 
 .rdiv * {
@@ -316,20 +319,24 @@ body {
 }
 
 .filters{
-    visibility: hidden;
+    display: none;
 }
 
 .filters2{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     visibility: visible;
     display: flex;
     background-color: #00C2A8;
     transition: .5s;
     height: 40px;
-    width: 300px;
+    width: 80%;
+    padding: 5px 10px;
     border-radius: 10px;
+    scroll-snap-type: x mandatory;
+    overflow-x: auto;
+    overflow-y: hidden;
 }
 
 .filters2 input{
@@ -337,9 +344,15 @@ body {
     font-size: larger;
 }
 
-.filters button{
+.filters2 button{
+    scroll-snap-align: center;
+    flex-shrink: 0;
     margin-right: 20px;
     font-size: 1em;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 15px;
     padding: 5px 15px;
     background-color: var(--first-color);
@@ -348,9 +361,19 @@ body {
     cursor: pointer;
 }
 
-.filters button:hover{
+.filters2 button:hover{
     transform: translateY(-1px);
     background-color: var(--fourth-color);
     border-color: var(--fourth-color);
     color: var(--first-color);
+    transition: .3s;
+}
+
+.filters2 {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Older Edge and IE */
+}
+
+.filters2::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Edge */
 }
