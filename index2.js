@@ -3,6 +3,8 @@ const params = new URLSearchParams(window.location.search)
 
 const test = params.get("test")
 const type = params.get("type");
+const filter = params.get("filter");
+console.log(filter)
 console.log(type)
 console.log(test)
 
@@ -36,6 +38,21 @@ async function get_questions(){
         passages = passages[2].text
     }
 
+    else if(test == "Animals"){
+        questions = questions.filter(question => question.type == "animals")
+        passages = passages[2].text
+    }
+
+    else if(test == "History"){
+        questions = questions.filter(question => question.type == "history")
+        passages = passages[2].text
+    }
+
+    else if(test == "Logic"){
+        questions = questions.filter(question => question.type == "logic")
+        passages = passages[2].text
+    }
+
 }
 
 function shuffle(questions) {
@@ -63,25 +80,26 @@ async function displaydata() {
         newquestions = questions;
     }
 
+    
     const home2 = document.getElementById("home2");
-
+    
     home2.addEventListener("click", event => {
         window.location.href = "./index.html"
     })
-        
+    
     // the top (passage and score)
-
+    
     const content = document.getElementById("content");
-
+    
     const cards = document.getElementById("cards");
-
+    
     const passage = document.getElementById("passage");
     const showpsg = document.getElementById("showpass");
     const hidepsg = document.getElementById("hidepass");
     passage.textContent = '';
-
+    
     content.prepend(passage);
-
+    
     const scoreEl = document.getElementById("score");
     const scoreh1 = document.createElement("h1")
     const inp = document.createElement("div");
@@ -92,31 +110,35 @@ async function displaydata() {
     inp.style.alignItems = "center";
     inp.style.marginTop = "20px";
     
-
+    
+    if(filter != "School"){
+        showpsg.style.display = "none";
+        hidepsg.style.display = "none";
+    }
     
     scoreh1.textContent = "Your Score";
-
+    
     const scorenum = document.createElement("p");
-
+    
     let score = 0;
     let answered = 0;
     qans.textContent = `${answered}/${newquestions.length} Questions Answered`;
     qans.style.marginTop = "10px"
-
+    
     inp.style.setProperty("--before-width", `${score}%`);
     inp.style.zIndex = 1;
-
-
+    
+    
     scorenum.textContent = `${score}%`;
     scorenum.style.fontSize = "1.3em";
     scorenum.style.zIndex = 100;
-
+    
     inp.append(scorenum)
     scoreEl.prepend(qans);
     scoreEl.prepend(inp);
     scoreEl.prepend(scoreh1)
     scoreEl.style.padding = "10px"
-
+    
     content.prepend(scoreEl)
 
     showpsg.addEventListener("click", event => {
