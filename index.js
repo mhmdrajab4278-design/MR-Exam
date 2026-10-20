@@ -4,29 +4,40 @@ let questions = null;
 let category = [
     {
         "name": "25-26 T1",
-        "num": "NO. of Questions: 50",
-        "subject": "Subject English",
+        "subject": "English",
         "filter": "school"
     },
 
     {
         "name": "25-26 T2",
-        "num": "NO. of Questions: 50",
-        "subject": "Subject English",
+        "subject": "English",
         "filter": "school"
     },
 
     {
         "name": "24-25 T2",
-        "num": "NO. of Questions: 50",
-        "subject": "Subject English",
+        "subject": "English",
         "filter": "school"
     },
     {
         "name": "Capitals",
-        "num": "NO. of Questions: 196",
-        "subject": "General Geography",
-        "filter": "general"
+        "subject": "Capitals",
+        "filter": "capitals"
+    },
+    {
+        "name": "Animals",
+        "subject": "Animals",
+        "filter": "animals"
+    },
+    {
+        "name": "History",
+        "subject": "History",
+        "filter": "history"
+    },
+    {
+        "name": "Logic",
+        "subject": "Logic",
+        "filter": "logic"
     }
 ]
 const cards = document.getElementById("cards")
@@ -45,27 +56,17 @@ console.log(filters)
 filter.addEventListener("click", event => {
     filters.classList.toggle("filters2");
 })
-    
-let newcategory;
 
-const filter_form = document.getElementById('filter-form');
-
-filter_form.addEventListener("change", event => {
-    newcategory = category.filter(type => type.filter == "school");
-    console.log(newcategory)
-    start()
-
-})
 
 async function start() {
     await get_questions();
-
+    
     // sidebar
-
+    
     const side = document.getElementById("side");
     const sidebtn = document.getElementById("sidebtn");
     const hideside = document.getElementById("hideside");
-
+    
     const squiz = document.getElementById("squiz");
     const quiz = document.getElementById("quiz");
     const lquiz = document.getElementById("lquiz");
@@ -85,41 +86,113 @@ async function start() {
     quiz_form.addEventListener("change", event => {
         selected = event.target;
     })
-
+    
     sidebtn.addEventListener("click", event => {
         side.classList.add("active");
     })
-
+    
     hideside.addEventListener("click", event => {
         side.classList.remove("active")
     })
-
+    
     const select = document.getElementById("select");
+    
+    function displaycards(category){
+        
+        category.forEach(element => {
+            const card = document.createElement("div");
+            const h1 = document.createElement("h1")
+            const p1 = document.createElement("p")
+            const p2 = document.createElement("p")
+            
+            h1.textContent = element.name;
+            p1.textContent = element.num;
+            p2.textContent = element.subject;
 
-    category.forEach(element => {
-        const card = document.createElement("div");
-        const h1 = document.createElement("h1")
-        const p1 = document.createElement("p")
-        const p2 = document.createElement("p")
-        
-        h1.textContent = element.name;
-        p1.textContent = element.num;
-        p2.textContent = element.subject;
-        
-        card.appendChild(h1)
-        card.appendChild(p1)
-        card.appendChild(p2)
-        card.classList.add("card");
-        
-        cards.appendChild(card)
-        
-        card.addEventListener("click", event => {
-            // window.location.href = `index2.html?test=${element.name}`;
-            elementoutside = element;
-            foot.classList.add("active-foot")
-        })
+            h1.style.fontSize = "25px"
+            
+            card.appendChild(h1)
+            card.appendChild(p1)
+            card.appendChild(p2)
+            card.classList.add("card");
+            
+            cards.appendChild(card)
+            
+            card.addEventListener("click", event => {
+                // window.location.href = `index2.html?test=${element.name}`;
+                elementoutside = element;
+                foot.classList.add("active-foot")
+            })
 
+        })}
         
+        
+    let newcategory;
+    
+    newcategory = category;
+    
+    const filter_form = document.getElementById('filter-form');
+    const school = document.getElementById("school");
+    const geography = document.getElementById("geography");
+    const all2 = document.getElementById("all2");
+    const f_btns = document.querySelectorAll(".f-btns");
+    const animals = document.getElementById("animals");
+    const history = document.getElementById("history");
+    const logic = document.getElementById("logic");
+
+
+    all2.addEventListener("click", event => {
+        newcategory = category;
+        f_btns.forEach(btn => btn.disabled = false);
+        all2.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+
+    history.addEventListener("click", event => {
+        newcategory = category.filter(type => type.filter == "history");
+        f_btns.forEach(btn => btn.disabled = false);
+        history.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+
+    animals.addEventListener("click", event => {
+        newcategory = category.filter(type => type.filter == "animals");
+        f_btns.forEach(btn => btn.disabled = false);
+        animals.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+
+    logic.addEventListener("click", event => {
+        newcategory = category.filter(type => type.filter == "logic");
+        f_btns.forEach(btn => btn.disabled = false);
+        logic.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+    
+    school.addEventListener("click", event => {
+        newcategory = category.filter(type => type.filter == "school");
+        f_btns.forEach(btn => btn.disabled = false);
+        school.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+
+    geography.addEventListener("click", event => {
+        newcategory = category.filter(type => type.filter == "capitals");
+        f_btns.forEach(btn => btn.disabled = false);
+        geography.disabled = true;
+        cards.replaceChildren()
+        displaycards(newcategory);
+    })
+        
+    displaycards(newcategory);
+
+    
+        /*
         const allcards = document.querySelectorAll(".card")
         
         select.addEventListener("change", event => {
@@ -148,15 +221,15 @@ async function start() {
         
         if(savedcolor){
             document.documentElement.style.setProperty("--primary-color", savedcolor)
-        }
-    })
+        }*/
     next.addEventListener("click", event => {
-        window.location.href = `index2.html?test=${elementoutside.name}&type=${selected.id}`;
+        window.location.href = `index2.html?test=${elementoutside.name}&type=${selected.id}&filter=${newcategory[0].filter}`;
     })
-}
+    console.log(elementoutside, selected)
+    
+    }
 
 start()
-
 
 /*
 <div class="card">
