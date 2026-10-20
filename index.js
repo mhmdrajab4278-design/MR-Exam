@@ -5,24 +5,28 @@ let category = [
     {
         "name": "25-26 T1",
         "num": "NO. of Questions: 50",
-        "subject": "Subject English"
+        "subject": "Subject English",
+        "filter": "school"
     },
 
     {
         "name": "25-26 T2",
         "num": "NO. of Questions: 50",
-        "subject": "Subject English"
+        "subject": "Subject English",
+        "filter": "school"
     },
 
     {
         "name": "24-25 T2",
         "num": "NO. of Questions: 50",
-        "subject": "Subject English"
+        "subject": "Subject English",
+        "filter": "school"
     },
     {
         "name": "Capitals",
         "num": "NO. of Questions: 196",
-        "subject": "General Geography"
+        "subject": "General Geography",
+        "filter": "general"
     }
 ]
 const cards = document.getElementById("cards")
@@ -32,12 +36,29 @@ async function get_questions(){
     questions = await response.json();
 }
 
+// filter
+
+const filter = document.getElementById("filter");
+const filters = document.querySelector(".filters");
+console.log(filters)
+
+filter.addEventListener("click", event => {
+    filters.classList.toggle("filters2");
+})
+    
+let newcategory;
+
+const filter_form = document.getElementById('filter-form');
+
+filter_form.addEventListener("change", event => {
+    newcategory = category.filter(type => type.filter == "school");
+    console.log(newcategory)
+    start()
+
+})
+
 async function start() {
     await get_questions();
-
-    const filter = document.getElementById("filter");
-
-    
 
     // sidebar
 
@@ -65,7 +86,6 @@ async function start() {
         selected = event.target;
     })
 
-
     sidebtn.addEventListener("click", event => {
         side.classList.add("active");
     })
@@ -76,8 +96,7 @@ async function start() {
 
     const select = document.getElementById("select");
 
-    
-    category.forEach(element => {
+    newcategory.forEach(element => {
         const card = document.createElement("div");
         const h1 = document.createElement("h1")
         const p1 = document.createElement("p")
@@ -137,6 +156,7 @@ async function start() {
 }
 
 start()
+
 
 /*
 <div class="card">
