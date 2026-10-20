@@ -4301,5 +4301,2618 @@
         },
         "answer": 2,
         "type": "capitals"
+    },
+    {
+        "Q": 196,
+        "question": "What is the largest animal in the world?",
+        "options": {
+            "A": "African elephant",
+            "B": "Blue whale",
+            "C": "Giraffe",
+            "D": "Whale shark"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 197,
+        "question": "Which animal is known as the king of the jungle?",
+        "options": {
+            "A": "Tiger",
+            "B": "Leopard",
+            "C": "Lion",
+            "D": "Jaguar"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 198,
+        "question": "What is the fastest land animal?",
+        "options": {
+            "A": "Cheetah",
+            "B": "Lion",
+            "C": "Horse",
+            "D": "Greyhound"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 199,
+        "question": "Which mammal can fly using powered flight?",
+        "options": {
+            "A": "Flying squirrel",
+            "B": "Sugar glider",
+            "C": "Colugo",
+            "D": "Bat"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 200,
+        "question": "What is a baby frog called?",
+        "options": {
+            "A": "Larva",
+            "B": "Tadpole",
+            "C": "Nymph",
+            "D": "Cub"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 201,
+        "question": "Which animal has a long trunk?",
+        "options": {
+            "A": "Rhinoceros",
+            "B": "Hippopotamus",
+            "C": "Elephant",
+            "D": "Tapir"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 202,
+        "question": "Which bird is famous for its ability to imitate human speech?",
+        "options": {
+            "A": "Parrot",
+            "B": "Eagle",
+            "C": "Penguin",
+            "D": "Ostrich"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 203,
+        "question": "Which animal is known for having black and white stripes?",
+        "options": {
+            "A": "Giraffe",
+            "B": "Cheetah",
+            "C": "Hyena",
+            "D": "Zebra"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 204,
+        "question": "What do pandas mainly eat in the wild?",
+        "options": {
+            "A": "Fish",
+            "B": "Bamboo",
+            "C": "Grasshoppers",
+            "D": "Tree bark"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 205,
+        "question": "Which animal is known for changing its color to blend into its surroundings?",
+        "options": {
+            "A": "Crocodile",
+            "B": "Iguana",
+            "C": "Chameleon",
+            "D": "Tortoise"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 206,
+        "question": "Which is the largest living species of cat?",
+        "options": {
+            "A": "Tiger",
+            "B": "Lion",
+            "C": "Leopard",
+            "D": "Cheetah"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 207,
+        "question": "Which animal carries its baby in a pouch?",
+        "options": {
+            "A": "Rabbit",
+            "B": "Fox",
+            "C": "Otter",
+            "D": "Kangaroo"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 208,
+        "question": "What is the tallest living animal?",
+        "options": {
+            "A": "African elephant",
+            "B": "Giraffe",
+            "C": "Ostrich",
+            "D": "Camel"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 209,
+        "question": "Which animal is famous for building dams in rivers?",
+        "options": {
+            "A": "Otter",
+            "B": "Muskrat",
+            "C": "Beaver",
+            "D": "Platypus"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 210,
+        "question": "Which bird cannot fly but is an excellent swimmer?",
+        "options": {
+            "A": "Penguin",
+            "B": "Eagle",
+            "C": "Falcon",
+            "D": "Sparrow"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 211,
+        "question": "Which animal is known for having eight arms?",
+        "options": {
+            "A": "Squid",
+            "B": "Jellyfish",
+            "C": "Starfish",
+            "D": "Octopus"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 212,
+        "question": "What is the largest species of shark?",
+        "options": {
+            "A": "Great white shark",
+            "B": "Whale shark",
+            "C": "Tiger shark",
+            "D": "Hammerhead shark"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 213,
+        "question": "Which animal is famous for its black mask and ringed tail?",
+        "options": {
+            "A": "Red panda",
+            "B": "Lemur",
+            "C": "Raccoon",
+            "D": "Badger"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 214,
+        "question": "What is a group of lions called?",
+        "options": {
+            "A": "A pride",
+            "B": "A pack",
+            "C": "A herd",
+            "D": "A colony"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 215,
+        "question": "Which animal is known for having a very long neck and eating leaves from tall trees?",
+        "options": {
+            "A": "Zebra",
+            "B": "Bison",
+            "C": "Moose",
+            "D": "Giraffe"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 216,
+        "question": "Which of these animals is a marsupial?",
+        "options": {
+            "A": "Wolf",
+            "B": "Koala",
+            "C": "Panda",
+            "D": "Sloth"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 217,
+        "question": "Which animal is famous for its ability to regrow a lost tail?",
+        "options": {
+            "A": "Snake",
+            "B": "Crocodile",
+            "C": "Gecko",
+            "D": "Turtle"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 218,
+        "question": "Which animal is the largest living land mammal?",
+        "options": {
+            "A": "African bush elephant",
+            "B": "White rhinoceros",
+            "C": "Hippopotamus",
+            "D": "Giraffe"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 219,
+        "question": "Which animal is known for spraying a strong-smelling liquid when threatened?",
+        "options": {
+            "A": "Porcupine",
+            "B": "Armadillo",
+            "C": "Meerkat",
+            "D": "Skunk"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 220,
+        "question": "What do you call an animal that eats only plants?",
+        "options": {
+            "A": "Carnivore",
+            "B": "Herbivore",
+            "C": "Omnivore",
+            "D": "Scavenger"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 221,
+        "question": "Which animal is known for its hump and ability to survive in deserts?",
+        "options": {
+            "A": "Llama",
+            "B": "Alpaca",
+            "C": "Camel",
+            "D": "Yak"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 222,
+        "question": "Which animal is famous for sleeping while hanging upside down?",
+        "options": {
+            "A": "Bat",
+            "B": "Monkey",
+            "C": "Squirrel",
+            "D": "Lemur"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 223,
+        "question": "Which animal has a shell that protects its body?",
+        "options": {
+            "A": "Frog",
+            "B": "Salamander",
+            "C": "Iguana",
+            "D": "Tortoise"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 224,
+        "question": "Which marine mammal is famous for its intelligence and echolocation?",
+        "options": {
+            "A": "Manatee",
+            "B": "Dolphin",
+            "C": "Walrus",
+            "D": "Sea lion"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 225,
+        "question": "Which insect produces honey?",
+        "options": {
+            "A": "Ant",
+            "B": "Butterfly",
+            "C": "Honeybee",
+            "D": "Dragonfly"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 226,
+        "question": "Which animal is known for its extremely slow movement?",
+        "options": {
+            "A": "Sloth",
+            "B": "Cheetah",
+            "C": "Gazelle",
+            "D": "Hare"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 227,
+        "question": "Which bird is the largest living bird by height?",
+        "options": {
+            "A": "Emu",
+            "B": "Cassowary",
+            "C": "Albatross",
+            "D": "Ostrich"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 228,
+        "question": "Which animal uses echolocation to navigate and find prey?",
+        "options": {
+            "A": "Eagle",
+            "B": "Bat",
+            "C": "Rabbit",
+            "D": "Panda"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 229,
+        "question": "Which animal is famous for having a powerful bite and living in rivers?",
+        "options": {
+            "A": "Iguana",
+            "B": "Salamander",
+            "C": "Crocodile",
+            "D": "Chameleon"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 230,
+        "question": "What is a baby dog called?",
+        "options": {
+            "A": "Puppy",
+            "B": "Kitten",
+            "C": "Calf",
+            "D": "Foal"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 231,
+        "question": "Which animal is known for its ability to roll into a ball for protection?",
+        "options": {
+            "A": "Meerkat",
+            "B": "Otter",
+            "C": "Beaver",
+            "D": "Hedgehog"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 232,
+        "question": "Which animal has the longest migration of any mammal?",
+        "options": {
+            "A": "African elephant",
+            "B": "Humpback whale",
+            "C": "Polar bear",
+            "D": "Blue whale"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 233,
+        "question": "Which animal is known for its distinctive black and white face and bamboo diet?",
+        "options": {
+            "A": "Raccoon",
+            "B": "Sloth",
+            "C": "Giant panda",
+            "D": "Red fox"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 234,
+        "question": "What do you call an animal that eats both plants and animals?",
+        "options": {
+            "A": "Omnivore",
+            "B": "Herbivore",
+            "C": "Carnivore",
+            "D": "Parasite"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 235,
+        "question": "Which animal is known for its black and white fur and lives in the Arctic?",
+        "options": {
+            "A": "Polar bear",
+            "B": "Arctic fox",
+            "C": "Snow leopard",
+            "D": "Panda"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 236,
+        "question": "Which of these animals is a reptile?",
+        "options": {
+            "A": "Frog",
+            "B": "Salamander",
+            "C": "Snake",
+            "D": "Toad"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 237,
+        "question": "Which animal is famous for having a pouch and hopping on powerful hind legs?",
+        "options": {
+            "A": "Rabbit",
+            "B": "Wallaby",
+            "C": "Lemur",
+            "D": "Marmot"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 238,
+        "question": "Which animal is known for having a very long tongue to catch ants and termites?",
+        "options": {
+            "A": "Beaver",
+            "B": "Armadillo",
+            "C": "Anteater",
+            "D": "Hedgehog"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 239,
+        "question": "What is the largest living species of penguin?",
+        "options": {
+            "A": "King penguin",
+            "B": "Adélie penguin",
+            "C": "Chinstrap penguin",
+            "D": "Emperor penguin"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 240,
+        "question": "Which animal is famous for its ability to mimic human speech and other sounds?",
+        "options": {
+            "A": "African grey parrot",
+            "B": "Swan",
+            "C": "Flamingo",
+            "D": "Peacock"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 241,
+        "question": "Which animal has a transparent body and stinging tentacles?",
+        "options": {
+            "A": "Starfish",
+            "B": "Jellyfish",
+            "C": "Sea turtle",
+            "D": "Seahorse"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 242,
+        "question": "Which animal is known for building large social colonies and working together?",
+        "options": {
+            "A": "Leopard",
+            "B": "Tiger",
+            "C": "Ant",
+            "D": "Eagle"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 243,
+        "question": "Which animal is the main predator of many African savanna herbivores?",
+        "options": {
+            "A": "Giraffe",
+            "B": "Zebra",
+            "C": "Elephant",
+            "D": "Lion"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 244,
+        "question": "Which animal is known for its ability to regenerate lost limbs?",
+        "options": {
+            "A": "Axolotl",
+            "B": "Eagle",
+            "C": "Camel",
+            "D": "Dolphin"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 245,
+        "question": "What is a baby cat called?",
+        "options": {
+            "A": "Puppy",
+            "B": "Kitten",
+            "C": "Cub",
+            "D": "Foal"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 246,
+        "question": "Which animal is known for its long ears and powerful hind legs?",
+        "options": {
+            "A": "Mole",
+            "B": "Beaver",
+            "C": "Rabbit",
+            "D": "Badger"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 247,
+        "question": "Which animal is the largest living primate?",
+        "options": {
+            "A": "Chimpanzee",
+            "B": "Orangutan",
+            "C": "Bonobo",
+            "D": "Eastern gorilla"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 248,
+        "question": "Which animal is known for storing food in its cheek pouches?",
+        "options": {
+            "A": "Hamster",
+            "B": "Hedgehog",
+            "C": "Mole",
+            "D": "Otter"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 249,
+        "question": "Which animal is famous for its large antlers?",
+        "options": {
+            "A": "Wild boar",
+            "B": "Moose",
+            "C": "Wolf",
+            "D": "Lynx"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 250,
+        "question": "Which animal is commonly called the ship of the desert?",
+        "options": {
+            "A": "Horse",
+            "B": "Donkey",
+            "C": "Camel",
+            "D": "Llama"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 251,
+        "question": "Which bird is known for its colorful tail feathers and courtship display?",
+        "options": {
+            "A": "Crow",
+            "B": "Pelican",
+            "C": "Swan",
+            "D": "Peacock"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 252,
+        "question": "Which animal has a specialized pouch for carrying its young and is native to Australia?",
+        "options": {
+            "A": "Wombat",
+            "B": "Badger",
+            "C": "Fox",
+            "D": "Marmot"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 253,
+        "question": "Which animal is known for its ability to glide between trees using a membrane?",
+        "options": {
+            "A": "Flying fox",
+            "B": "Flying squirrel",
+            "C": "Bat",
+            "D": "Pigeon"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 254,
+        "question": "Which marine animal has five arms and can regrow lost arms?",
+        "options": {
+            "A": "Jellyfish",
+            "B": "Sea urchin",
+            "C": "Starfish",
+            "D": "Clam"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 255,
+        "question": "Which animal is known for its ability to survive long periods without drinking water in the desert?",
+        "options": {
+            "A": "Otter",
+            "B": "Beaver",
+            "C": "Hippo",
+            "D": "Kangaroo rat"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 256,
+        "question": "Which animal is the largest living reptile?",
+        "options": {
+            "A": "Saltwater crocodile",
+            "B": "Komodo dragon",
+            "C": "Green anaconda",
+            "D": "Leatherback sea turtle"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 257,
+        "question": "Which animal is known for its black and white coloring and ability to produce a strong odor when threatened?",
+        "options": {
+            "A": "Badger",
+            "B": "Skunk",
+            "C": "Raccoon",
+            "D": "Meerkat"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 258,
+        "question": "Which animal is famous for using echolocation underwater?",
+        "options": {
+            "A": "Sea turtle",
+            "B": "Manatee",
+            "C": "Dolphin",
+            "D": "Penguin"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 259,
+        "question": "Which of these animals is an amphibian?",
+        "options": {
+            "A": "Lizard",
+            "B": "Turtle",
+            "C": "Snake",
+            "D": "Salamander"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 260,
+        "question": "Which animal is known for carrying its house on its back?",
+        "options": {
+            "A": "Snail",
+            "B": "Earthworm",
+            "C": "Leech",
+            "D": "Slug"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 261,
+        "question": "Which animal is famous for its ability to imitate the appearance of a stick or leaf?",
+        "options": {
+            "A": "Ladybug",
+            "B": "Stick insect",
+            "C": "Honeybee",
+            "D": "Grasshopper"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 262,
+        "question": "Which animal is known for its distinctive black and white facial markings and lives in the Himalayas and nearby regions?",
+        "options": {
+            "A": "Raccoon",
+            "B": "Giant panda",
+            "C": "Red panda",
+            "D": "Polar bear"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 263,
+        "question": "What is a group of wolves commonly called?",
+        "options": {
+            "A": "A pride",
+            "B": "A herd",
+            "C": "A colony",
+            "D": "A pack"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 264,
+        "question": "Which animal has a long sticky tongue used to catch insects?",
+        "options": {
+            "A": "Anteater",
+            "B": "Elephant",
+            "C": "Rhinoceros",
+            "D": "Hippo"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 265,
+        "question": "Which animal is known for its ability to walk sideways?",
+        "options": {
+            "A": "Lobster",
+            "B": "Crab",
+            "C": "Octopus",
+            "D": "Seahorse"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 266,
+        "question": "Which animal is famous for producing silk?",
+        "options": {
+            "A": "Honeybee",
+            "B": "Spider mite",
+            "C": "Silkworm",
+            "D": "Dragonfly"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 267,
+        "question": "Which animal is the largest living species of deer?",
+        "options": {
+            "A": "Red deer",
+            "B": "Reindeer",
+            "C": "Fallow deer",
+            "D": "Moose"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 268,
+        "question": "Which bird is famous for its ability to hover in the air while feeding on nectar?",
+        "options": {
+            "A": "Hummingbird",
+            "B": "Albatross",
+            "C": "Ostrich",
+            "D": "Flamingo"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 269,
+        "question": "Which animal is known for having a blue tongue?",
+        "options": {
+            "A": "Chameleon",
+            "B": "Blue-tongued skink",
+            "C": "Iguana",
+            "D": "Gecko"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 270,
+        "question": "Which animal is famous for its ability to inflate its body when threatened?",
+        "options": {
+            "A": "Clownfish",
+            "B": "Swordfish",
+            "C": "Pufferfish",
+            "D": "Tuna"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 271,
+        "question": "Which animal is known for having the longest neck among living animals?",
+        "options": {
+            "A": "Camel",
+            "B": "Ostrich",
+            "C": "Swan",
+            "D": "Giraffe"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 272,
+        "question": "Which animal is known for its ability to detect electric fields produced by prey?",
+        "options": {
+            "A": "Shark",
+            "B": "Salmon",
+            "C": "Goldfish",
+            "D": "Seahorse"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 273,
+        "question": "Which animal is known for its distinctive laugh-like call?",
+        "options": {
+            "A": "Hyena",
+            "B": "Wolf",
+            "C": "Fox",
+            "D": "Coyote"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 274,
+        "question": "Which animal is the largest living rodent?",
+        "options": {
+            "A": "Beaver",
+            "B": "Capybara",
+            "C": "Porcupine",
+            "D": "Marmot"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 275,
+        "question": "Which animal is known for its ability to spray ink as a defense mechanism?",
+        "options": {
+            "A": "Jellyfish",
+            "B": "Starfish",
+            "C": "Squid",
+            "D": "Seahorse"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 276,
+        "question": "Which animal has a horn-like projection on its nose and thick skin?",
+        "options": {
+            "A": "Hippo",
+            "B": "Elephant",
+            "C": "Buffalo",
+            "D": "Rhinoceros"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 277,
+        "question": "Which bird is known for its ability to turn its head up to about 270 degrees?",
+        "options": {
+            "A": "Owl",
+            "B": "Eagle",
+            "C": "Crow",
+            "D": "Swan"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 278,
+        "question": "Which animal is known for using tools to open shellfish?",
+        "options": {
+            "A": "Polar bear",
+            "B": "Sea otter",
+            "C": "Penguin",
+            "D": "Walrus"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 279,
+        "question": "Which insect has four wings and often begins its life in water?",
+        "options": {
+            "A": "Ant",
+            "B": "Flea",
+            "C": "Dragonfly",
+            "D": "Housefly"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 280,
+        "question": "Which animal is known for its powerful legs and ability to jump long distances?",
+        "options": {
+            "A": "Mole",
+            "B": "Sloth",
+            "C": "Panda",
+            "D": "Kangaroo"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 281,
+        "question": "Which animal is a major pollinator of flowering plants?",
+        "options": {
+            "A": "Bee",
+            "B": "Shark",
+            "C": "Crocodile",
+            "D": "Wolf"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 282,
+        "question": "Which animal is known for having a pouch that opens toward the rear?",
+        "options": {
+            "A": "Koala",
+            "B": "Wombat",
+            "C": "Kangaroo",
+            "D": "Wallaby"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 283,
+        "question": "Which animal can detach its tail to escape predators?",
+        "options": {
+            "A": "Elephant",
+            "B": "Wolf",
+            "C": "Lizard",
+            "D": "Giraffe"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 284,
+        "question": "Which marine animal is known for its tusks?",
+        "options": {
+            "A": "Dolphin",
+            "B": "Manatee",
+            "C": "Seal",
+            "D": "Walrus"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 285,
+        "question": "Which animal is famous for its ability to survive in extremely cold Arctic conditions?",
+        "options": {
+            "A": "Polar bear",
+            "B": "Lion",
+            "C": "Giraffe",
+            "D": "Chimpanzee"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 286,
+        "question": "Which animal is known for having a spiral-shaped shell?",
+        "options": {
+            "A": "Earthworm",
+            "B": "Snail",
+            "C": "Leech",
+            "D": "Jellyfish"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 287,
+        "question": "Which animal is famous for its ability to mimic the appearance of a dead leaf?",
+        "options": {
+            "A": "Honeybee",
+            "B": "Ladybug",
+            "C": "Dead leaf butterfly",
+            "D": "Dragonfly"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 288,
+        "question": "Which animal is known for having a very strong sense of smell and tracking scents over long distances?",
+        "options": {
+            "A": "Eagle",
+            "B": "Dolphin",
+            "C": "Penguin",
+            "D": "Bloodhound"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 289,
+        "question": "Which animal is a filter feeder that often eats tiny organisms in seawater?",
+        "options": {
+            "A": "Whale shark",
+            "B": "Great white shark",
+            "C": "Barracuda",
+            "D": "Moray eel"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 290,
+        "question": "Which animal is known for making a web to catch prey?",
+        "options": {
+            "A": "Scorpion",
+            "B": "Spider",
+            "C": "Ant",
+            "D": "Beetle"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 291,
+        "question": "Which animal is known for its ability to walk on water using surface tension?",
+        "options": {
+            "A": "Water snake",
+            "B": "Frog",
+            "C": "Water strider",
+            "D": "Turtle"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    {
+        "Q": 292,
+        "question": "Which animal is known for having a long, sticky tongue and living in Central and South America?",
+        "options": {
+            "A": "Armadillo",
+            "B": "Tapir",
+            "C": "Capybara",
+            "D": "Giant anteater"
+        },
+        "answer": 3,
+        "type": "animals"
+    },
+    {
+        "Q": 293,
+        "question": "Which animal is famous for its ability to regrow a lost arm?",
+        "options": {
+            "A": "Starfish",
+            "B": "Dolphin",
+            "C": "Penguin",
+            "D": "Crocodile"
+        },
+        "answer": 0,
+        "type": "animals"
+    },
+    {
+        "Q": 294,
+        "question": "Which animal is known for its black and white face and habit of living in groups called troops?",
+        "options": {
+            "A": "Tiger",
+            "B": "Baboon",
+            "C": "Leopard",
+            "D": "Polar bear"
+        },
+        "answer": 1,
+        "type": "animals"
+    },
+    {
+        "Q": 295,
+        "question": "Which animal is the largest living amphibian?",
+        "options": {
+            "A": "American bullfrog",
+            "B": "Axolotl",
+            "C": "Chinese giant salamander",
+            "D": "Cane toad"
+        },
+        "answer": 2,
+        "type": "animals"
+    },
+    
+    {
+        "Q": 296,
+        "question": "من ناوم چیە؟",
+        "options": {
+            "A": "محمد",
+            "B": "هیچ",
+            "C": "قادر",
+            "D": "نادر"
+        },
+        "answer": 2,
+        "type": "test"
+    },
+    {
+        "Q": 296,
+        "question": "Which ancient civilization built the pyramids at Giza?",
+        "options": {"A": "Romans", "B": "Egyptians", "C": "Greeks", "D": "Persians"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 297,
+        "question": "Who was the first emperor of Rome?",
+        "options": {"A": "Julius Caesar", "B": "Nero", "C": "Augustus", "D": "Trajan"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 298,
+        "question": "Which ancient civilization developed cuneiform writing?",
+        "options": {"A": "Sumerians", "B": "Romans", "C": "Maya", "D": "Vikings"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 299,
+        "question": "Where did the ancient Olympic Games originate?",
+        "options": {"A": "Egypt", "B": "Persia", "C": "India", "D": "Greece"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 300,
+        "question": "Which river was central to ancient Egyptian civilization?",
+        "options": {"A": "Amazon", "B": "Nile", "C": "Danube", "D": "Yangtze"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 301,
+        "question": "Who was the famous queen of ancient Egypt associated with Julius Caesar and Mark Antony?",
+        "options": {"A": "Nefertiti", "B": "Hatshepsut", "C": "Cleopatra VII", "D": "Sobekneferu"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 302,
+        "question": "Which city was buried by the eruption of Mount Vesuvius in AD 79?",
+        "options": {"A": "Pompeii", "B": "Athens", "C": "Carthage", "D": "Alexandria"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 303,
+        "question": "Who was the Greek philosopher who taught Alexander the Great?",
+        "options": {"A": "Socrates", "B": "Plato", "C": "Pythagoras", "D": "Aristotle"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 304,
+        "question": "Which ancient city was famous for its hanging gardens in traditional accounts?",
+        "options": {"A": "Sparta", "B": "Babylon", "C": "Troy", "D": "Rome"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 305,
+        "question": "What was the main language of ancient Rome?",
+        "options": {"A": "Greek", "B": "Aramaic", "C": "Latin", "D": "Egyptian"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 306,
+        "question": "Which ancient civilization built Machu Picchu?",
+        "options": {"A": "Inca", "B": "Aztec", "C": "Maya", "D": "Olmec"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 307,
+        "question": "Which civilization built the city of Chichen Itza?",
+        "options": {"A": "Inca", "B": "Roman", "C": "Persian", "D": "Maya"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 308,
+        "question": "Who was the Carthaginian general who crossed the Alps with an army?",
+        "options": {"A": "Scipio Africanus", "B": "Hannibal", "C": "Julius Caesar", "D": "Leonidas"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 309,
+        "question": "Which ancient Greek city-state was especially known for its military society?",
+        "options": {"A": "Corinth", "B": "Athens", "C": "Sparta", "D": "Delphi"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 310,
+        "question": "What was the name of the famous law code associated with the Babylonian king Hammurabi?",
+        "options": {"A": "The Code of Hammurabi", "B": "The Twelve Tables", "C": "The Justinian Code", "D": "The Magna Carta"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 311,
+        "question": "Which ancient civilization developed along the Indus River and its surrounding region?",
+        "options": {"A": "Minoan civilization", "B": "Inca civilization", "C": "Mayan civilization", "D": "Indus Valley civilization"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 312,
+        "question": "Which ancient people are credited with developing an early alphabet that influenced Greek writing?",
+        "options": {"A": "Huns", "B": "Phoenicians", "C": "Mongols", "D": "Aztecs"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 313,
+        "question": "Which sea connected many trading cities of ancient Greece and Rome?",
+        "options": {"A": "Caribbean Sea", "B": "Baltic Sea", "C": "Mediterranean Sea", "D": "Bering Sea"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 314,
+        "question": "Which ancient civilization built the city of Persepolis?",
+        "options": {"A": "Persians", "B": "Romans", "C": "Phoenicians", "D": "Maya"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 315,
+        "question": "Which ancient Greek historian is often called the Father of History?",
+        "options": {"A": "Thucydides", "B": "Homer", "C": "Herodotus", "D": "Sophocles"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 316,
+        "question": "Who was the Macedonian king who created a vast empire stretching into parts of Asia?",
+        "options": {"A": "Philip II", "B": "Alexander the Great", "C": "Pericles", "D": "Solon"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 317,
+        "question": "Which ancient civilization is associated with the terracotta army of Emperor Qin Shi Huang?",
+        "options": {"A": "Japanese", "B": "Korean", "C": "Mongolian", "D": "Chinese"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 318,
+        "question": "What was the main purpose of the Great Wall of China in many periods of its history?",
+        "options": {"A": "To protect against northern incursions", "B": "To transport water", "C": "To mark the border with India only", "D": "To serve as a royal palace"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 319,
+        "question": "Which dynasty ruled China when much of the Great Wall's best-known Ming-era sections were built?",
+        "options": {"A": "Han", "B": "Tang", "C": "Ming", "D": "Qing"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 320,
+        "question": "Which trade network connected China with parts of Central Asia, the Middle East, and Europe?",
+        "options": {"A": "Amber Road", "B": "Silk Road", "C": "Appian Way", "D": "Royal Road of Persia"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 321,
+        "question": "Which Roman structure was used for gladiatorial contests and public spectacles?",
+        "options": {"A": "Pantheon", "B": "Parthenon", "C": "Hagia Sophia", "D": "Colosseum"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 322,
+        "question": "Who was the Roman general assassinated on the Ides of March in 44 BC?",
+        "options": {"A": "Julius Caesar", "B": "Augustus", "C": "Cicero", "D": "Constantine"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 323,
+        "question": "Which Roman emperor is traditionally associated with making Christianity legal in the Roman Empire?",
+        "options": {"A": "Nero", "B": "Caligula", "C": "Constantine I", "D": "Hadrian"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 324,
+        "question": "In which year did the Western Roman Empire traditionally fall?",
+        "options": {"A": "410", "B": "476", "C": "622", "D": "800"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 325,
+        "question": "Which city became the capital of the Byzantine Empire?",
+        "options": {"A": "Rome", "B": "Jerusalem", "C": "Antioch", "D": "Constantinople"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 326,
+        "question": "What was the name of the famous Byzantine emperor who ordered a major compilation of Roman law?",
+        "options": {"A": "Justinian I", "B": "Heraclius", "C": "Basil II", "D": "Leo III"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 327,
+        "question": "Which people from Scandinavia were known for seafaring raids and exploration during the early Middle Ages?",
+        "options": {"A": "Franks", "B": "Visigoths", "C": "Vikings", "D": "Saxons"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 328,
+        "question": "Who was crowned emperor in Western Europe by Pope Leo III in the year 800?",
+        "options": {"A": "William the Conqueror", "B": "Charlemagne", "C": "Richard the Lionheart", "D": "Otto von Bismarck"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 329,
+        "question": "Which document, sealed by King John in 1215, limited certain royal powers in England?",
+        "options": {"A": "The Declaration of Independence", "B": "The Edict of Milan", "C": "The Treaty of Versailles", "D": "Magna Carta"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 330,
+        "question": "Which pandemic devastated Europe and other regions during the 14th century?",
+        "options": {"A": "The Black Death", "B": "The Spanish flu", "C": "The Justinian Plague only", "D": "The 1918 influenza outbreak"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 331,
+        "question": "Which empire was founded by Genghis Khan?",
+        "options": {"A": "Ottoman Empire", "B": "Mughal Empire", "C": "Mongol Empire", "D": "Mali Empire"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 332,
+        "question": "Which West African empire was famous for the wealth of Mansa Musa?",
+        "options": {"A": "Songhai Empire", "B": "Mali Empire", "C": "Aksumite Empire", "D": "Benin Empire"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 333,
+        "question": "Which city became a major center of learning and trade in the Mali Empire?",
+        "options": {"A": "Lagos", "B": "Cairo", "C": "Marrakesh", "D": "Timbuktu"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 334,
+        "question": "Which empire was centered in the region of modern-day Iran before the rise of Islam and included rulers such as Cyrus the Great?",
+        "options": {"A": "Achaemenid Empire", "B": "Aztec Empire", "C": "Inca Empire", "D": "Maurya Empire"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 335,
+        "question": "Who was the founder of the Achaemenid Persian Empire?",
+        "options": {"A": "Darius III", "B": "Xerxes I", "C": "Cyrus the Great", "D": "Cambyses II"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 336,
+        "question": "Which ancient battle in 480 BC involved a small Greek force led by King Leonidas?",
+        "options": {"A": "Battle of Marathon", "B": "Battle of Thermopylae", "C": "Battle of Actium", "D": "Battle of Cannae"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 337,
+        "question": "Which civilization developed a famous calendar system and built large cities in Mesoamerica?",
+        "options": {"A": "Sumerians", "B": "Phoenicians", "C": "Hittites", "D": "Maya"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 338,
+        "question": "Which empire was conquered by Hernán Cortés in the early 16th century?",
+        "options": {"A": "Aztec Empire", "B": "Inca Empire", "C": "Roman Empire", "D": "Mali Empire"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 339,
+        "question": "Who led the Spanish expedition that conquered the Inca Empire?",
+        "options": {"A": "Christopher Columbus", "B": "Vasco da Gama", "C": "Francisco Pizarro", "D": "Ferdinand Magellan"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 340,
+        "question": "Which explorer reached the Americas in 1492 while sailing for Spain?",
+        "options": {"A": "James Cook", "B": "Christopher Columbus", "C": "Marco Polo", "D": "Roald Amundsen"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 341,
+        "question": "Which Portuguese explorer reached India by sea in 1498?",
+        "options": {"A": "Bartolomeu Dias", "B": "Pedro Álvares Cabral", "C": "Ferdinand Magellan", "D": "Vasco da Gama"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 342,
+        "question": "Which invention helped spread books and ideas across Europe during the Renaissance?",
+        "options": {"A": "The movable-type printing press", "B": "The steam locomotive", "C": "The telephone", "D": "The electric motor"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 343,
+        "question": "Which artist painted the Mona Lisa?",
+        "options": {"A": "Michelangelo", "B": "Raphael", "C": "Leonardo da Vinci", "D": "Donatello"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 344,
+        "question": "Which movement emphasized renewed interest in classical art, literature, and learning in Europe?",
+        "options": {"A": "The Reformation", "B": "The Renaissance", "C": "The Industrial Revolution", "D": "The Romantic era"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 345,
+        "question": "Who began the Protestant Reformation in 1517 by challenging practices of the Catholic Church?",
+        "options": {"A": "John Calvin", "B": "Henry VIII", "C": "Ignatius of Loyola", "D": "Martin Luther"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 346,
+        "question": "Which English king had six wives?",
+        "options": {"A": "Henry VIII", "B": "Henry V", "C": "Richard III", "D": "Edward VI"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 347,
+        "question": "Which French king was known as the Sun King?",
+        "options": {"A": "Louis XVI", "B": "Francis I", "C": "Louis XIV", "D": "Napoleon III"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 348,
+        "question": "Which revolution began in France in 1789?",
+        "options": {"A": "Russian Revolution", "B": "French Revolution", "C": "Glorious Revolution", "D": "Haitian Revolution"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 349,
+        "question": "Which prison was stormed by revolutionaries in Paris on July 14, 1789?",
+        "options": {"A": "The Tower of London", "B": "Alcatraz", "C": "The Bastille", "D": "The Conciergerie"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 350,
+        "question": "Who became emperor of France in 1804?",
+        "options": {"A": "Louis XVIII", "B": "Charles de Gaulle", "C": "Robespierre", "D": "Napoleon Bonaparte"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 351,
+        "question": "At which battle was Napoleon finally defeated in 1815?",
+        "options": {"A": "Waterloo", "B": "Austerlitz", "C": "Trafalgar", "D": "Borodino"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 352,
+        "question": "Which revolution began in Britain in the 18th century and transformed manufacturing?",
+        "options": {"A": "Agricultural Revolution", "B": "Scientific Revolution", "C": "Industrial Revolution", "D": "Cultural Revolution"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 353,
+        "question": "Who is widely credited with developing a practical steam engine that helped power the Industrial Revolution?",
+        "options": {"A": "Thomas Edison", "B": "James Watt", "C": "Nikola Tesla", "D": "Alexander Graham Bell"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 354,
+        "question": "Which country declared independence from Britain in 1776?",
+        "options": {"A": "Canada", "B": "Australia", "C": "Ireland", "D": "The United States"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 355,
+        "question": "Who was the first president of the United States?",
+        "options": {"A": "George Washington", "B": "Thomas Jefferson", "C": "John Adams", "D": "Abraham Lincoln"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 356,
+        "question": "Which US president issued the Emancipation Proclamation during the Civil War?",
+        "options": {"A": "George Washington", "B": "Andrew Jackson", "C": "Abraham Lincoln", "D": "Theodore Roosevelt"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 357,
+        "question": "In which year did the American Civil War begin?",
+        "options": {"A": "1776", "B": "1861", "C": "1812", "D": "1914"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 358,
+        "question": "Which conflict was fought between the North and South in the United States from 1861 to 1865?",
+        "options": {"A": "War of 1812", "B": "American Revolution", "C": "Mexican-American War", "D": "American Civil War"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 359,
+        "question": "Which event is commonly considered the immediate trigger of World War I?",
+        "options": {"A": "The assassination of Archduke Franz Ferdinand", "B": "The bombing of Pearl Harbor", "C": "The invasion of Poland", "D": "The Russian Revolution"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 360,
+        "question": "In which year did World War I begin?",
+        "options": {"A": "1905", "B": "1912", "C": "1914", "D": "1918"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 361,
+        "question": "Which treaty formally ended the state of war between Germany and the Allied Powers after World War I?",
+        "options": {"A": "Treaty of Utrecht", "B": "Treaty of Versailles", "C": "Treaty of Tordesillas", "D": "Treaty of Paris of 1783"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 362,
+        "question": "In which year did World War II begin in Europe?",
+        "options": {"A": "1933", "B": "1936", "C": "1941", "D": "1939"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 363,
+        "question": "Which country did Nazi Germany invade on September 1, 1939?",
+        "options": {"A": "Poland", "B": "France", "C": "Norway", "D": "Greece"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 364,
+        "question": "Who was the leader of Nazi Germany during World War II?",
+        "options": {"A": "Benito Mussolini", "B": "Joseph Stalin", "C": "Adolf Hitler", "D": "Winston Churchill"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 365,
+        "question": "Which Japanese city was the first to be hit by an atomic bomb during World War II?",
+        "options": {"A": "Tokyo", "B": "Hiroshima", "C": "Osaka", "D": "Kyoto"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 366,
+        "question": "In which year did World War II end?",
+        "options": {"A": "1943", "B": "1944", "C": "1946", "D": "1945"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 367,
+        "question": "Which international organization was founded in 1945 to promote peace and cooperation?",
+        "options": {"A": "United Nations", "B": "European Union", "C": "NATO", "D": "League of Nations"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 368,
+        "question": "Which two superpowers were the main rivals during the Cold War?",
+        "options": {"A": "Britain and France", "B": "China and Japan", "C": "United States and Soviet Union", "D": "Germany and Italy"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 369,
+        "question": "In which year did the Berlin Wall fall?",
+        "options": {"A": "1979", "B": "1989", "C": "1991", "D": "2001"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 370,
+        "question": "In which year was the Soviet Union dissolved?",
+        "options": {"A": "1985", "B": "1989", "C": "1995", "D": "1991"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 371,
+        "question": "Who was the first human to travel into outer space?",
+        "options": {"A": "Yuri Gagarin", "B": "Neil Armstrong", "C": "Buzz Aldrin", "D": "John Glenn"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 372,
+        "question": "In which year did humans first land on the Moon?",
+        "options": {"A": "1957", "B": "1961", "C": "1969", "D": "1975"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 373,
+        "question": "Who was the first person to walk on the Moon?",
+        "options": {"A": "Yuri Gagarin", "B": "Neil Armstrong", "C": "Michael Collins", "D": "Alan Shepard"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 374,
+        "question": "Which ancient city was the capital of the Byzantine Empire before its conquest in 1453?",
+        "options": {"A": "Athens", "B": "Alexandria", "C": "Damascus", "D": "Constantinople"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 375,
+        "question": "Who led the Ottoman conquest of Constantinople in 1453?",
+        "options": {"A": "Mehmed II", "B": "Suleiman the Magnificent", "C": "Osman I", "D": "Selim I"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 376,
+        "question": "Which empire ruled much of southeastern Europe, western Asia, and North Africa for centuries?",
+        "options": {"A": "Mongol Empire", "B": "Inca Empire", "C": "Ottoman Empire", "D": "Aztec Empire"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 377,
+        "question": "Which ruler of the Mughal Empire commissioned the Taj Mahal?",
+        "options": {"A": "Akbar", "B": "Shah Jahan", "C": "Babur", "D": "Aurangzeb"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 378,
+        "question": "In which modern country is the Taj Mahal located?",
+        "options": {"A": "Pakistan", "B": "Bangladesh", "C": "Nepal", "D": "India"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 379,
+        "question": "Which Japanese period began in 1603 and was ruled by the Tokugawa shogunate?",
+        "options": {"A": "Edo period", "B": "Heian period", "C": "Meiji period", "D": "Nara period"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 380,
+        "question": "What was the title of Japan's military rulers in the era of the samurai?",
+        "options": {"A": "Pharaoh", "B": "Consul", "C": "Shogun", "D": "Caliph"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 381,
+        "question": "Which famous French heroine helped the French army during the Hundred Years' War?",
+        "options": {"A": "Marie Antoinette", "B": "Joan of Arc", "C": "Eleanor of Aquitaine", "D": "Catherine de' Medici"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 382,
+        "question": "Which war was fought between England and France from 1337 to 1453?",
+        "options": {"A": "War of the Roses", "B": "Thirty Years' War", "C": "Seven Years' War", "D": "Hundred Years' War"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 383,
+        "question": "Which English queen ruled during the defeat of the Spanish Armada in 1588?",
+        "options": {"A": "Elizabeth I", "B": "Victoria", "C": "Mary I", "D": "Anne"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 384,
+        "question": "Which explorer led the expedition that completed the first circumnavigation of the Earth, although he died before it finished?",
+        "options": {"A": "James Cook", "B": "Christopher Columbus", "C": "Ferdinand Magellan", "D": "Francis Drake"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 385,
+        "question": "Which ancient Greek city was the birthplace of democracy in its early historical form?",
+        "options": {"A": "Sparta", "B": "Athens", "C": "Thebes", "D": "Mycenae"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 386,
+        "question": "Which Greek philosopher was the teacher of Plato?",
+        "options": {"A": "Aristotle", "B": "Heraclitus", "C": "Epicurus", "D": "Socrates"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 387,
+        "question": "Which ancient Greek poet is traditionally credited with composing the Iliad and the Odyssey?",
+        "options": {"A": "Homer", "B": "Virgil", "C": "Ovid", "D": "Aeschylus"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 388,
+        "question": "Which civilization built the ziggurat temples in ancient Mesopotamia?",
+        "options": {"A": "Vikings", "B": "Inca", "C": "Mesopotamian civilizations", "D": "Aztecs"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 389,
+        "question": "Which ancient Mesopotamian city is traditionally associated with the legendary king Gilgamesh?",
+        "options": {"A": "Ur", "B": "Uruk", "C": "Nineveh", "D": "Babylon"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 390,
+        "question": "Which ancient civilization is associated with the royal tomb of Tutankhamun?",
+        "options": {"A": "Roman", "B": "Greek", "C": "Persian", "D": "Egyptian"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 391,
+        "question": "Who discovered the tomb of Tutankhamun in 1922?",
+        "options": {"A": "Howard Carter", "B": "Heinrich Schliemann", "C": "Jean-François Champollion", "D": "Arthur Evans"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 392,
+        "question": "Which stone helped scholars decipher Egyptian hieroglyphs?",
+        "options": {"A": "Plymouth Rock", "B": "Rosetta Stone", "C": "Blarney Stone", "D": "Stone of Scone"},
+        "answer": 1,
+        "type": "history"
+    },
+    {
+        "Q": 393,
+        "question": "Which French scholar played a major role in deciphering Egyptian hieroglyphs?",
+        "options": {"A": "Louis Pasteur", "B": "René Descartes", "C": "Jean-François Champollion", "D": "Auguste Rodin"},
+        "answer": 2,
+        "type": "history"
+    },
+    {
+        "Q": 394,
+        "question": "Which ancient civilization built the monumental stone statues known as moai on Easter Island?",
+        "options": {"A": "Maya", "B": "Inca", "C": "Aztec", "D": "Rapa Nui"},
+        "answer": 3,
+        "type": "history"
+    },
+    {
+        "Q": 395,
+        "question": "Which ancient civilization is famous for the city of Petra, carved into rose-colored rock?",
+        "options": {"A": "Nabataeans", "B": "Sumerians", "C": "Minoans", "D": "Etruscans"},
+        "answer": 0,
+        "type": "history"
+    },
+    {
+        "Q": 1,
+        "question": "If all Zorbs are Lumes and no Lumes are Tarks, which statement must be true?",
+        "options": {"A": "Some Zorbs are Tarks", "B": "No Zorbs are Tarks", "C": "All Tarks are Zorbs", "D": "Some Lumes are Zorbs"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 2,
+        "question": "What number comes next in the sequence: 2, 6, 15, 31, 56, ?",
+        "options": {"A": "82", "B": "88", "C": "92", "D": "96"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 3,
+        "question": "All members of a committee speak either English or French or both. If 70 speak English, 50 speak French, and 20 speak both, how many members are there?",
+        "options": {"A": "100", "B": "120", "C": "140", "D": "90"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 4,
+        "question": "If the statement 'If P, then Q' is false, what must be true?",
+        "options": {"A": "P is false and Q is true", "B": "P and Q are both false", "C": "P is true and Q is false", "D": "P and Q are both true"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 5,
+        "question": "Five people stand in a line. Adam is before Ben, Ben is before Chloe, David is after Chloe, and Eva is before Adam. Who must stand first?",
+        "options": {"A": "Adam", "B": "Ben", "C": "Eva", "D": "Chloe"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 6,
+        "question": "What number replaces the question mark: 1, 2, 6, 15, 31, 56, ?",
+        "options": {"A": "82", "B": "92", "C": "96", "D": "102"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 7,
+        "question": "A says, 'B is lying.' B says, 'C is lying.' C says, 'A and B are both lying.' If exactly one person tells the truth, who is it?",
+        "options": {"A": "A", "B": "B", "C": "C", "D": "Impossible"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 8,
+        "question": "If every N is an M, some M are P, and no P is an R, which conclusion must follow?",
+        "options": {"A": "No N is an R", "B": "Some M are not R", "C": "All M are not R", "D": "Some N are P"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 9,
+        "question": "What number comes next: 3, 8, 18, 38, 78, ?",
+        "options": {"A": "148", "B": "156", "C": "158", "D": "160"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 10,
+        "question": "A clock loses 6 minutes every hour. If it is correct at noon, what time will it display when the actual time is 6:00 PM?",
+        "options": {"A": "5:24 PM", "B": "5:30 PM", "C": "5:36 PM", "D": "5:42 PM"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 11,
+        "question": "In a group of 40 people, 25 know Python, 20 know JavaScript, and 10 know both. How many know neither language?",
+        "options": {"A": "0", "B": "5", "C": "10", "D": "15"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 12,
+        "question": "If the negation of a statement is false, what is the original statement's truth value?",
+        "options": {"A": "True", "B": "False", "C": "Both true and false", "D": "Undetermined"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 13,
+        "question": "What number comes next: 2, 12, 36, 80, 150, ?",
+        "options": {"A": "216", "B": "240", "C": "252", "D": "288"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 14,
+        "question": "Three boxes contain only apples, only oranges, or a mixture of both. Every label is incorrect. From which box should you draw one fruit to determine all the contents?",
+        "options": {"A": "The box labeled Apples", "B": "The box labeled Oranges", "C": "The box labeled Mixed", "D": "Any box gives no useful information"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 15,
+        "question": "If A implies B, B implies C, and C is false, what must be true?",
+        "options": {"A": "A is true", "B": "B is true", "C": "A is false and B is false", "D": "A is true and B is false"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 16,
+        "question": "What number comes next: 1, 4, 10, 22, 46, ?",
+        "options": {"A": "90", "B": "92", "C": "94", "D": "96"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 17,
+        "question": "Six people each shake hands with every other person exactly once. How many handshakes occur?",
+        "options": {"A": "12", "B": "15", "C": "18", "D": "30"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 18,
+        "question": "A number is selected from 1 to 100 inclusive. What is the probability that it is divisible by either 4 or 6?",
+        "options": {"A": "1/3", "B": "1/2", "C": "7/25", "D": "17/50"},
+        "answer": 3,
+        "type": "logic"
+    },
+    {
+        "Q": 19,
+        "question": "Four suspects make statements. Exactly one is guilty, and exactly one statement is true. A says B is guilty. B says D is guilty. C says B is not guilty. D says C is not guilty. Who is guilty?",
+        "options": {"A": "A", "B": "B", "C": "C", "D": "D"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 20,
+        "question": "What number comes next: 1, 2, 5, 12, 27, 58, ?",
+        "options": {"A": "116", "B": "119", "C": "121", "D": "123"},
+        "answer": 3,
+        "type": "logic"
+    },
+    {
+        "Q": 21,
+        "question": "If all A are B, some B are C, and no C are D, which statement must be true?",
+        "options": {"A": "No A are D", "B": "Some B are not D", "C": "All B are not D", "D": "Some A are C"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 22,
+        "question": "A bag contains 5 red, 4 blue, and 3 green balls. What is the minimum number of balls drawn blindly to guarantee at least two balls of the same color?",
+        "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 23,
+        "question": "What number comes next: 7, 14, 12, 24, 22, 44, ?",
+        "options": {"A": "40", "B": "42", "C": "46", "D": "88"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 24,
+        "question": "A father is four times as old as his son. In 20 years, he will be twice as old as his son. How old is the son now?",
+        "options": {"A": "5", "B": "10", "C": "15", "D": "20"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 25,
+        "question": "If exactly one of P and Q is true, and P implies R, while R is false, what must be true?",
+        "options": {"A": "P is true", "B": "Q is true", "C": "Both P and Q are true", "D": "Both P and Q are false"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 26,
+        "question": "What number comes next: 4, 6, 12, 14, 28, 30, ?",
+        "options": {"A": "32", "B": "56", "C": "60", "D": "62"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 27,
+        "question": "A code replaces each letter with the letter three places after it in the alphabet, wrapping around after Z. How is LOGIC encoded?",
+        "options": {"A": "ORJLF", "B": "ORJLF", "C": "ORJLF", "D": "LOJIF"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 28,
+        "question": "In a race, Mark finishes ahead of Nina but behind Omar. Peter finishes behind Nina. Who finishes second if these are the only four runners?",
+        "options": {"A": "Mark", "B": "Nina", "C": "Omar", "D": "Peter"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 29,
+        "question": "What number comes next: 2, 3, 5, 9, 17, 33, ?",
+        "options": {"A": "49", "B": "57", "C": "65", "D": "66"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 30,
+        "question": "A fair coin is tossed three times. What is the probability of getting exactly two heads?",
+        "options": {"A": "1/8", "B": "1/4", "C": "3/8", "D": "1/2"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 31,
+        "question": "If some philosophers are mathematicians and all mathematicians are logical thinkers, which conclusion follows?",
+        "options": {"A": "All philosophers are logical thinkers", "B": "Some philosophers are logical thinkers", "C": "No philosophers are logical thinkers", "D": "All logical thinkers are philosophers"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 32,
+        "question": "What number comes next: 5, 11, 23, 47, 95, ?",
+        "options": {"A": "181", "B": "189", "C": "191", "D": "195"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 33,
+        "question": "A drawer contains 10 black and 10 white socks. What is the minimum number of socks needed to guarantee at least three socks of the same color?",
+        "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 34,
+        "question": "If the statement 'All A are B' is false, which must be true?",
+        "options": {"A": "No A are B", "B": "Some A are not B", "C": "All B are A", "D": "Some B are not A"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 35,
+        "question": "What number comes next: 3, 4, 8, 17, 33, 58, ?",
+        "options": {"A": "84", "B": "90", "C": "94", "D": "96"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 36,
+        "question": "Three people have different ages. Ali is older than Sara, and Sara is older than Omar. Which statement must be true?",
+        "options": {"A": "Omar is older than Ali", "B": "Ali is the oldest", "C": "Sara is the oldest", "D": "Ali and Omar are the same age"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 37,
+        "question": "A machine transforms 2 into 6, 3 into 12, 4 into 20, and 5 into 30. What does it transform 8 into?",
+        "options": {"A": "64", "B": "68", "C": "72", "D": "80"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 38,
+        "question": "If P or Q is true, but not both, and Q is false, what is the value of P?",
+        "options": {"A": "True", "B": "False", "C": "Both", "D": "Cannot be determined"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 39,
+        "question": "A group has 30 people. Every person speaks at least one of English or French. If 18 speak English and 20 speak French, how many speak both?",
+        "options": {"A": "6", "B": "8", "C": "10", "D": "12"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 40,
+        "question": "What number comes next: 1, 3, 7, 15, 31, 63, ?",
+        "options": {"A": "95", "B": "111", "C": "127", "D": "129"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 41,
+        "question": "Four cards show A, D, 4, and 7. Each card has a letter on one side and a number on the other. To test the rule 'If a card has a vowel on one side, it has an even number on the other,' which cards must you turn over?",
+        "options": {"A": "A and 4", "B": "A and 7", "C": "D and 4", "D": "D and 7"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 42,
+        "question": "What number comes next: 2, 9, 28, 65, 126, ?",
+        "options": {"A": "196", "B": "205", "C": "217", "D": "225"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 43,
+        "question": "If exactly two of the statements A, B, and C are true, and A says B is true, B says C is true, and C says A is false, which statements are true?",
+        "options": {"A": "A and B only", "B": "A and C only", "C": "B and C only", "D": "All three"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 44,
+        "question": "A number is chosen from 1 to 50 inclusive. How many numbers are divisible by 3 or 5, but not both?",
+        "options": {"A": "20", "B": "21", "C": "23", "D": "24"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 45,
+        "question": "What number comes next: 8, 13, 23, 43, 83, ?",
+        "options": {"A": "143", "B": "153", "C": "163", "D": "173"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 46,
+        "question": "A prisoner must choose between two doors. One leads to freedom and one to danger. Two guards know which is which; one always tells the truth and the other always lies. What single question guarantees finding the freedom door?",
+        "options": {"A": "Which door leads to freedom?", "B": "Would the other guard say the left door leads to freedom?", "C": "Are you the truthful guard?", "D": "Does the right door lead to danger?"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 47,
+        "question": "If all engineers are problem-solvers and no problem-solvers are careless, which conclusion follows?",
+        "options": {"A": "Some engineers are careless", "B": "No engineers are careless", "C": "All careless people are engineers", "D": "No engineers solve problems"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 48,
+        "question": "What number comes next: 1, 5, 14, 30, 55, 91, ?",
+        "options": {"A": "126", "B": "140", "C": "147", "D": "154"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 49,
+        "question": "A box contains 4 red, 5 blue, and 6 yellow balls. What is the minimum number of balls to draw blindly to guarantee at least two of each color?",
+        "options": {"A": "7", "B": "10", "C": "12", "D": "13"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 50,
+        "question": "If the contrapositive of 'If P, then Q' is formed, which statement is correct?",
+        "options": {"A": "If Q, then P", "B": "If not P, then not Q", "C": "If not Q, then not P", "D": "If P, then not Q"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 51,
+        "question": "What number comes next: 6, 13, 27, 55, 111, ?",
+        "options": {"A": "221", "B": "222", "C": "223", "D": "225"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 52,
+        "question": "Five books are arranged on a shelf. The history book must be before the science book, the math book must be after the science book, and the art book must be before the history book. Which book must be before the math book?",
+        "options": {"A": "Only history", "B": "Only science", "C": "Both history and art", "D": "Both science and art"},
+        "answer": 3,
+        "type": "logic"
+    },
+    {
+        "Q": 53,
+        "question": "A fair six-sided die is rolled twice. What is the probability that the sum is 7?",
+        "options": {"A": "1/12", "B": "1/9", "C": "1/6", "D": "1/3"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 54,
+        "question": "What number comes next: 2, 5, 10, 17, 26, 37, ?",
+        "options": {"A": "48", "B": "49", "C": "50", "D": "52"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 55,
+        "question": "A and B are either both truth-tellers or both liars. A says, 'B is a liar.' What can be concluded?",
+        "options": {"A": "A is truthful and B lies", "B": "A lies and B is truthful", "C": "The premise and statement cannot both be satisfied", "D": "Both tell the truth"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 56,
+        "question": "In a class, 60% study mathematics, 50% study physics, and 30% study both. What percentage study neither subject?",
+        "options": {"A": "10%", "B": "20%", "C": "30%", "D": "40%"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 57,
+        "question": "What number comes next: 4, 10, 22, 46, 94, ?",
+        "options": {"A": "186", "B": "188", "C": "190", "D": "192"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 58,
+        "question": "If no honest person lies and some teachers are honest, which conclusion must be true?",
+        "options": {"A": "All teachers are honest", "B": "Some teachers do not lie", "C": "No teachers lie", "D": "All honest people are teachers"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 59,
+        "question": "A 3-digit code uses distinct digits. The first digit is twice the last digit, and the middle digit is the sum of the other two. Which code satisfies these rules?",
+        "options": {"A": "426", "B": "624", "C": "321", "D": "639"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 60,
+        "question": "What number comes next: 1, 8, 9, 64, 25, 216, ?",
+        "options": {"A": "36", "B": "49", "C": "343", "D": "512"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 61,
+        "question": "There are 100 closed lockers. On pass 1, every locker is toggled. On pass 2, every second locker is toggled, and so on until pass 100. Which lockers remain open?",
+        "options": {"A": "All even-numbered lockers", "B": "Prime-numbered lockers", "C": "Perfect-square-numbered lockers", "D": "Lockers divisible by 10"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 62,
+        "question": "What number comes next: 2, 4, 16, 256, ?",
+        "options": {"A": "1024", "B": "4096", "C": "65536", "D": "131072"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 63,
+        "question": "If A is true exactly when B is false, and B is true exactly when C is false, what is the relationship between A and C?",
+        "options": {"A": "They must have the same truth value", "B": "They must have opposite truth values", "C": "Both must be true", "D": "Both must be false"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 64,
+        "question": "A number is chosen from 1 to 100 inclusive. What is the probability that it is a perfect square?",
+        "options": {"A": "1/10", "B": "1/5", "C": "1/4", "D": "1/2"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 65,
+        "question": "What number comes next: 11, 13, 17, 19, 23, 29, ?",
+        "options": {"A": "30", "B": "31", "C": "33", "D": "37"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 66,
+        "question": "Four people must cross a bridge at night with one torch. Their crossing times are 1, 2, 7, and 10 minutes. At most two can cross at once, and they move at the slower person's speed. What is the minimum total time?",
+        "options": {"A": "17 minutes", "B": "18 minutes", "C": "19 minutes", "D": "20 minutes"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 67,
+        "question": "If exactly one of the statements 'A is guilty', 'B is guilty', and 'C is guilty' is true, and A says B is guilty, B says C is guilty, and C says B is innocent, who is guilty if exactly one of these speakers is telling the truth?",
+        "options": {"A": "A", "B": "B", "C": "C", "D": "The information is inconsistent"},
+        "answer": 3,
+        "type": "logic"
+    },
+    {
+        "Q": 68,
+        "question": "What number comes next: 3, 7, 15, 31, 63, ?",
+        "options": {"A": "95", "B": "111", "C": "127", "D": "129"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 69,
+        "question": "A committee of 3 people is chosen from 8 people. How many different committees are possible if order does not matter?",
+        "options": {"A": "24", "B": "48", "C": "56", "D": "336"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 70,
+        "question": "If the statement 'Some A are B' is true, which statement must also be true?",
+        "options": {"A": "Some B are A", "B": "All A are B", "C": "No A are B", "D": "All B are A"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 71,
+        "question": "What number comes next: 1, 4, 3, 8, 5, 12, 7, ?",
+        "options": {"A": "14", "B": "15", "C": "16", "D": "18"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 72,
+        "question": "Three switches outside a room control three separate bulbs inside. You may manipulate the switches freely but enter the room only once. Assuming the bulbs become warm when lit, what is the maximum number of bulbs whose switches you can identify with certainty?",
+        "options": {"A": "1", "B": "2", "C": "3", "D": "None"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 73,
+        "question": "If P implies Q, Q implies R, and R implies not P, which statement must be true?",
+        "options": {"A": "P must be true", "B": "P must be false", "C": "Q must be true", "D": "R must be false"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 74,
+        "question": "What number comes next: 2, 3, 7, 16, 32, 57, ?",
+        "options": {"A": "83", "B": "88", "C": "93", "D": "96"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 75,
+        "question": "A bag contains 4 red and 6 blue balls. Two balls are drawn without replacement. What is the probability that both are red?",
+        "options": {"A": "2/15", "B": "4/25", "C": "1/3", "D": "3/10"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 76,
+        "question": "In a certain code, each number is multiplied by 2 and then increased by the previous output. If the first input is 1 and the output is 2, what is the output for input 3 under the rule output = input squared + input?",
+        "options": {"A": "9", "B": "10", "C": "12", "D": "15"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 77,
+        "question": "If all statements in a set are false except one, and A says B is true, B says C is true, and C says A is false, which assignment makes exactly one statement true?",
+        "options": {"A": "A true, B false, C false", "B": "A false, B true, C false", "C": "A false, B false, C true", "D": "A true, B true, C false"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 78,
+        "question": "What number comes next: 10, 20, 19, 38, 37, 74, ?",
+        "options": {"A": "72", "B": "73", "C": "75", "D": "148"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 79,
+        "question": "A family has 5 children. Each child has at least one brother and at least one sister. What is the minimum possible number of boys?",
+        "options": {"A": "1", "B": "2", "C": "3", "D": "4"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 80,
+        "question": "If the probability of event A is 0.6 and the probability of event B is 0.5, and the events are independent, what is the probability that both occur?",
+        "options": {"A": "0.1", "B": "0.3", "C": "0.5", "D": "1.1"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 81,
+        "question": "What number comes next: 1, 2, 6, 21, 88, ?",
+        "options": {"A": "352", "B": "440", "C": "445", "D": "450"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 82,
+        "question": "There are 12 identical-looking coins, one of which is counterfeit and may be heavier or lighter than the others. What is the minimum number of balance-scale weighings required to always identify the counterfeit coin and determine whether it is heavier or lighter?",
+        "options": {"A": "2", "B": "3", "C": "4", "D": "6"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 83,
+        "question": "If A, B, and C are distinct positive integers, A is twice B, C is three times B, and their sum is 36, what is C?",
+        "options": {"A": "6", "B": "12", "C": "18", "D": "24"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 84,
+        "question": "What number comes next: 2, 6, 18, 54, 162, ?",
+        "options": {"A": "324", "B": "486", "C": "512", "D": "648"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 85,
+        "question": "If every red object is large and no large object is light, which statement follows?",
+        "options": {"A": "Some red objects are light", "B": "No red object is light", "C": "All light objects are red", "D": "All large objects are red"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 86,
+        "question": "A password consists of 4 distinct digits chosen from 0 to 9, with the first digit nonzero. How many possible passwords are there?",
+        "options": {"A": "3024", "B": "4536", "C": "5040", "D": "9000"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 87,
+        "question": "What number comes next: 1, 11, 21, 1211, 111221, ?",
+        "options": {"A": "312211", "B": "211221", "C": "13112221", "D": "311221"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 88,
+        "question": "If exactly one of three switches is on, and switch A is on only if switch B is off, while switch B is on only if switch C is off, which switch must be on?",
+        "options": {"A": "A", "B": "B", "C": "C", "D": "The information is insufficient"},
+        "answer": 3,
+        "type": "logic"
+    },
+    {
+        "Q": 89,
+        "question": "A number leaves remainder 2 when divided by 3, remainder 3 when divided by 5, and remainder 2 when divided by 7. What is the smallest positive number satisfying these conditions?",
+        "options": {"A": "23", "B": "38", "C": "53", "D": "68"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 90,
+        "question": "What number comes next: 1, 2, 4, 7, 11, 16, ?",
+        "options": {"A": "20", "B": "21", "C": "22", "D": "23"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 91,
+        "question": "A logical system contains the rules: If A then B; if B then C; if C then D; and D is false. Which statement must be true?",
+        "options": {"A": "A is true", "B": "B is true", "C": "C is false", "D": "A is false and B is false"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 92,
+        "question": "How many diagonals does a convex polygon with 12 sides have?",
+        "options": {"A": "48", "B": "54", "C": "60", "D": "66"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 93,
+        "question": "What number comes next: 2, 5, 14, 41, 122, ?",
+        "options": {"A": "243", "B": "365", "C": "366", "D": "367"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 94,
+        "question": "In a room of 23 people, what is the approximate probability that at least two share a birthday, assuming 365 equally likely birthdays and ignoring leap years?",
+        "options": {"A": "Less than 10%", "B": "About 25%", "C": "About 50%", "D": "More than 90%"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 95,
+        "question": "If P and Q are both false, what is the truth value of 'not P and not Q'?",
+        "options": {"A": "True", "B": "False", "C": "Both true and false", "D": "Undetermined"},
+        "answer": 0,
+        "type": "logic"
+    },
+    {
+        "Q": 96,
+        "question": "A sequence follows the rule that each term is the previous term multiplied by 2, then minus 1. Starting with 3, what is the fifth term?",
+        "options": {"A": "25", "B": "33", "C": "39", "D": "47"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 97,
+        "question": "A and B together can complete a job in 6 days. A alone can complete it in 10 days. How many days would B alone need?",
+        "options": {"A": "12 days", "B": "15 days", "C": "18 days", "D": "20 days"},
+        "answer": 1,
+        "type": "logic"
+    },
+    {
+        "Q": 98,
+        "question": "A statement says, 'This statement is false.' Under classical two-valued logic, what is the problem with this statement?",
+        "options": {"A": "It is necessarily true", "B": "It is necessarily false", "C": "It creates a paradox because either truth value leads to contradiction", "D": "It is a tautology"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 99,
+        "question": "What number comes next: 1, 2, 6, 24, 120, 720, ?",
+        "options": {"A": "1440", "B": "2520", "C": "5040", "D": "7200"},
+        "answer": 2,
+        "type": "logic"
+    },
+    {
+        "Q": 100,
+        "question": "Four people are either truth-tellers, who always tell the truth, or liars, who always lie. A says, 'Exactly one of us is a truth-teller.' B says, 'Exactly two of us are truth-tellers.' C says, 'Exactly three of us are truth-tellers.' D says, 'All four of us are liars.' How many truth-tellers are there?",
+        "options": {"A": "0", "B": "1", "C": "2", "D": "3"},
+        "answer": 1,
+        "type": "logic"
     }
 ]
