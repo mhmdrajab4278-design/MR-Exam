@@ -200,7 +200,7 @@ async function displaydata() {
         cards.classList.remove("cards2");
         cards.classList.add("cards");
     })
-    
+
     newquestions.forEach((q, index) => {
 
 
@@ -316,6 +316,8 @@ async function displaydata() {
 
                 else if(i != correctanswer){
                     ops[correctanswer].style.backgroundColor = "#00C2A8";
+                    ops[i].style.backgroundColor = "#E8F1F8";
+                    ops[i].style.color = "#00C2A8";
                     check.textContent = "Wrong";
                     answered++;
                     qans.textContent = `${answered}/${newquestions.length} Questions Answered`
