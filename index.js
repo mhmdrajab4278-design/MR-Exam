@@ -96,7 +96,7 @@ async function start() {
 
     const select = document.getElementById("select");
 
-    newcategory.forEach(element => {
+    category.forEach(element => {
         const card = document.createElement("div");
         const h1 = document.createElement("h1")
         const p1 = document.createElement("p")
